@@ -2640,7 +2640,7 @@
     "/usr/share/ca-certificates/mozilla/NAVER_Global_Root_Certification_Authority.crt": [
       "9848c94859f83e48defe0b25a0f4347480b56ea2bb3336fe6d4dcf00d0d6031d"
     ],
-    "/usr/share/ca-certificates/mozilla/NetLock_Arany_=Class_Gold=_F\u0151tan\u00fas\u00edtv\u00e1ny.crt": [
+    "/usr/share/ca-certificates/mozilla/NetLock_Arany_=Class_Gold=_Főtanúsítvány.crt": [
       "40f60f2e2f83fb6c63ddefeba7939a7852b2d468183ea939cc4dcac8fe4cc87d"
     ],
     "/usr/share/ca-certificates/mozilla/OISTE_WISeKey_Global_Root_GB_CA.crt": [
@@ -47534,6 +47534,9 @@
     ],
     "/tmp/tmp.kmCTkM3KpL": [
       "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ],
+    "/tmp/evil_ls": [
+      "cb30d69b24245bf2ecdc9e7f53bbad19159999970b6d82c0c00c7d32d9e37aa4"
     ]
   },
   "excludes": [
